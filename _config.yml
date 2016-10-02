@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hacking with GitHub Pages
+title: Yuki's GitHub
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack2016" # the subpath of your site
